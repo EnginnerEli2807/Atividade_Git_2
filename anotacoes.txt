@@ -1,0 +1,1 @@
+Passo 1, adicionar o arquivo anotacoes e fazer o commit
